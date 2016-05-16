@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/nPC.xst" -ofn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/nPC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 nPC.ngc nPC.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o nPC_map.ncd nPC.ngd nPC.pcf 

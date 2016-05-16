@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb_isim_beh.exe" -prj "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb_beh.prj" "work.General_tb" 

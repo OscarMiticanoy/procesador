@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR_Modifier.xst" -ofn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR_Modifier.syr" 
+xst -intstyle ise -ifn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR_Modifier.xst" -ofn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR_Modifier.syr" 

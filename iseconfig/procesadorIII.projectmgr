@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="procesadorIII" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Control_unit_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Control_unit_tb.vhd</ClosedNode>
+         <ClosedNode>/InstructionMemory_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|InstructionMemory_tb.vhd</ClosedNode>
+         <ClosedNode>/MUX_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|MUX_tb.vhd</ClosedNode>
+         <ClosedNode>/PC_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PC_tb.vhd</ClosedNode>
+         <ClosedNode>/PSR_Modifier_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PSR_Modifier_tb.vhd</ClosedNode>
+         <ClosedNode>/PSR_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PSR_tb.vhd</ClosedNode>
+         <ClosedNode>/Register_File_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Register_File_tb.vhd</ClosedNode>
+         <ClosedNode>/SEU_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|SEU_tb.vhd</ClosedNode>
+         <ClosedNode>/Sumador_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Sumador_tb.vhd</ClosedNode>
+         <ClosedNode>/nPC_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|nPC_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>General - Behavioral (C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b0000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b00000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>General - Behavioral (C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ce000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ce0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001d2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001060000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ALU.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000e40000009901000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000bd000000010000000100000000000000000000000064ffffffff000000810000000000000001000000bd0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|ALU_tb.vhd</ClosedNode>
+         <ClosedNode>/Control_unit_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Control_unit_tb.vhd</ClosedNode>
+         <ClosedNode>/InstructionMemory_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|InstructionMemory_tb.vhd</ClosedNode>
+         <ClosedNode>/MUX_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|MUX_tb.vhd</ClosedNode>
+         <ClosedNode>/PC_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PC_tb.vhd</ClosedNode>
+         <ClosedNode>/PSR_Modifier_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PSR_Modifier_tb.vhd</ClosedNode>
+         <ClosedNode>/PSR_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|PSR_tb.vhd</ClosedNode>
+         <ClosedNode>/Register_File_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Register_File_tb.vhd</ClosedNode>
+         <ClosedNode>/SEU_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|SEU_tb.vhd</ClosedNode>
+         <ClosedNode>/Sumador_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|Sumador_tb.vhd</ClosedNode>
+         <ClosedNode>/nPC_tb - behavior C:|Users|Angela|Desktop|oscar|arquitectura|procesadorIII|nPC_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>General_tb - behavior (C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c4000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c40000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>General_tb - behavior (C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ce000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ce0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ce000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ce0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>

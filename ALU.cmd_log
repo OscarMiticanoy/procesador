@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/ALU.xst" -ofn "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/ALU.syr" 

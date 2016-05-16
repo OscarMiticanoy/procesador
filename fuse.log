@@ -1,0 +1,47 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb_isim_beh.exe -prj C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb_beh.prj work.General_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/Sumador.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/SEU.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/Register_File.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR_Modifier.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PSR.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/PC.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/nPC.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/MUX.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/Instruction_Memory.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/Control_Unit.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General.vhd" into library work
+Parsing VHDL file "C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 106724 KB
+Fuse CPU Usage: 577 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling package numeric_std
+Compiling architecture behavioral of entity Sumador [sumador_default]
+Compiling architecture behavioral of entity nPC [npc_default]
+Compiling architecture behavioral of entity PC [pc_default]
+Compiling architecture behavioral of entity IM [im_default]
+Compiling architecture behavioral of entity Register_File [register_file_default]
+Compiling architecture behavioral of entity MUX [mux_default]
+Compiling architecture behavioral of entity SEU [seu_default]
+Compiling architecture behavioral of entity Control_unit [control_unit_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity PSR_Modifier [psr_modifier_default]
+Compiling architecture behavioral of entity PSR [psr_default]
+Compiling architecture behavioral of entity General [general_default]
+Compiling architecture behavior of entity general_tb
+Time Resolution for simulation is 1ps.
+Waiting for 15 sub-compilation(s) to finish...
+Compiled 31 VHDL Units
+Built simulation executable C:/Users/Angela/Desktop/oscar/arquitectura/procesadorIII/General_tb_isim_beh.exe
+Fuse Memory Usage: 128788 KB
+Fuse CPU Usage: 982 ms
